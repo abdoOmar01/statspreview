@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/stats-preview-card-yznPOyFwUX)
-- Live Site URL: [Add live site URL here](https://abdoomar01.github.io/statspreview/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/stats-preview-card-yznPOyFwUX)
+- Live Site URL: [Live Site](https://abdoomar01.github.io/statspreview/)
 
 ## My process
 
